@@ -1,0 +1,7 @@
+---
+Name: Flying Focus
+---
+
+ContentController:
+  extensions:
+    - FlyingFocusExtension
