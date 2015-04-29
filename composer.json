@@ -1,0 +1,21 @@
+{
+  "name": "joshkosmala/silverstripe-flying-focus",
+  "description": "Add Flying Focus JS to your SilverStripe site",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/joshkosmala/silverstripe-flying-focus",
+  "keywords": ["silverstripe", "accessibility", "cwp", "common web platform", "WCAG", "ARIA"],
+  "license": "MIT",
+  "authors": [
+    {"name": "Josh Kosmala","email": "josh@novaweb.co.nz"}
+  ],
+  "support": {
+    "issues": "https://github.com/joshkosmala/silverstripe-flying-focus/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
+  },
+  "extra": {
+    "installer-name": "flyingfocus"
+  }
+}
