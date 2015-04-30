@@ -5,4 +5,5 @@ define('MODULE_FLYINGFOCUS_DIR', basename(dirname(__FILE__)));
  * Check if the module folder exists.
  */
 if (basename(dirname(__FILE__)) != MODULE_FLYINGFOCUS_DIR) {
-    throw new Exception(MODULE_FLYINGFOCUS_DIR . ' should have the directory name flyingfocus in your website root');
+    throw new Exception(MODULE_FLYINGFOCUS_DIR . ' not configured correctly');
+}
