@@ -2,7 +2,7 @@
 ### Improve your SilverStripe or CWP site with this module that adds Nikita Vasilyev's Flying Focus, a visual enhancement used to increase accessibility
 
 #### Installation
-Install via composer or download and extract the zip. Run dev/build?flush=1... Enjoy.
+Install via composer: composer require joshkosmala/silverstripe-flying-focus:dev-master
 
 #### Author
 Josh Kosmala [josh@novaweb.co.nz](mailto:josh@novaweb.co.nz)
